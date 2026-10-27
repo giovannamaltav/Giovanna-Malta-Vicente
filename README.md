@@ -32,8 +32,8 @@ Minha meta é clara: crescer, evoluir diariamente e construir uma carreira sóli
 
 ### 📫 Vamos nos conectar?
 
-* [LinkedIn](https://linkedin.com/in/SEU-LINKEDIN) *(substitua pelo seu link)*
-* [E-mail](mailto:seu-email@provedor.com) *(substitua pelo seu e-mail)*
+* [LinkedIn](https://linkedin.com/in/giovannam)
+* [E-mail](mailto:seu-email@provedor.com)
 
 > *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
 
