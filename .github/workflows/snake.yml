@@ -3,7 +3,7 @@ name: Generate Snake Game
 on:
   schedule:
     # Executa a cada 12 horas
-    - cron: "0 */12 * * *" 
+    - cron: "0 */12 * * *"  
   workflow_dispatch:
 
 jobs:
@@ -11,14 +11,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
+    # Permissão necessária para evitar o erro 128 no git push
+    permissions:
+      contents: write
+
     steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=pink&color_dots=#161b22,#3b1443,#6b217a,#9c32b2,#d946ef
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=pink&color_dots=#161b22,#3b1443,#6b217a,#9c32b2,#d946ef
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
