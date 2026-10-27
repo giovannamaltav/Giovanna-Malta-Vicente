@@ -1,4 +1,4 @@
-# Olá, mundo! 🚀 Sou a Giovanna
+# Olá, mundo! 🚀
 
 Estudante de **Análise e Sistemas de Desenvolvimento (ADS)** na **UNICID**, movida pela tecnologia e pela vontade de transformar o futuro através do código. 
 
@@ -7,10 +7,10 @@ Minha meta é clara: crescer, evoluir diariamente e construir uma carreira sóli
 ---
 
 ### 💻 Tecnologias e Ferramentas
-* **Linguagens:** (ex: Python, JavaScript, Java - *substitua pelas que estiver estudando*)
-* **Banco de Dados:** (ex: MySQL, PostgreSQL - *adicione o que ver na faculdade*)
+* **Linguagens:** (HTML, Java)
+* **Banco de Dados:** (MySQL)
 * **Controle de Versão:** Git & GitHub
-* **Áreas de Interesse:** Desenvolvimento Web, Banco de Dados, Engenharia de Software
+* **Áreas de Interesse:** Desenvolvimento Web, Banco de Dados
 
 ---
 
@@ -32,8 +32,8 @@ Minha meta é clara: crescer, evoluir diariamente e construir uma carreira sóli
 
 ### 📫 Vamos nos conectar?
 
-* [LinkedIn](https://linkedin.com/in/giovannamalta)
-* [E-mail](mailto:seu-email@provedor.com)
+* [LinkedIn](https://linkedin.com/in/giovanna-m-184375314)
+* [E-mail](mailto:giovanna.maltav@gmail.com)
 
 > *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
 
