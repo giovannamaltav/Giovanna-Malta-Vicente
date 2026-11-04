@@ -1,43 +1,61 @@
-# Olá, mundo! 🚀
+<div align="center">
+  <h1>Olá, mundo! 🚀✨</h1>
+  <p><em>Transformando café, curiosidade e linhas de código em soluções reais.</em></p>
+</div>
 
-Estudante de **Análise e Sistemas de Desenvolvimento (ADS)** na **UNICID**, movida pela tecnologia e pela vontade de transformar o futuro através do código. 
+---
 
-Minha meta é clara: crescer, evoluir diariamente e construir uma carreira sólida no desenvolvimento de software. Aqui você vai encontrar meus projetos, estudos e minha evolução no mundo da programação.
+### Sobre mim 👩‍💻
+
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **UNICID**, movida pela tecnologia e pela vontade de construir o futuro através da programação. 
+
+Minha meta é clara: evoluir diariamente, errar rápido para aprender mais rápido e consolidar uma sólida carreira no desenvolvimento de software. Aqui você vai encontrar meus projetos, estudos e a minha evolução constante no mundo tech.
 
 ---
 
 ### 💻 Tecnologias e Ferramentas
-* **Linguagens:** (HTML, Java)
-* **Banco de Dados:** (MySQL)
-* **Controle de Versão:** Git & GitHub
-* **Áreas de Interesse:** Desenvolvimento Web, Banco de Dados
+
+<div align="center">
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `HTML`, `Java` |
+| **Banco de Dados** | `MySQL` |
+| **Controle de Versão** | `Git`, `GitHub` |
+| **Áreas de Interesse** | Desenvolvimento Web, Banco de Dados, Backend |
+
+</div>
 
 ---
 
-### 📚 Onde estou estudando
-* **Graduação:** Análise e Desenvolvimento de Sistemas (ADS)
-* **Instituição:** Universidade Cidade de São Paulo (UNICID)
+### 📚 Formação
+- **Graduação:** Análise e Desenvolvimento de Sistemas (ADS)
+- **Instituição:** Universidade Cidade de São Paulo (UNICID)
 
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub da Giovanna" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giovannamaltav&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub da Giovanna" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannamaltav&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-* [LinkedIn](https://linkedin.com/in/giovanna-m-184375314)
-* [E-mail](mailto:giovanna.maltav@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanna-m-184375314)
+[![E-mail](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanna.maltav@gmail.com)
+
+</div>
+
+<br>
 
 > *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
-
-
 
 --- 
 
