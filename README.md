@@ -34,16 +34,6 @@ Minha meta é clara: evoluir diariamente, errar rápido para aprender mais rápi
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovannamaltav&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub da Giovanna" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannamaltav&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</div>
-
----
-
 ### 📫 Vamos nos conectar?
 
 <div align="center">
