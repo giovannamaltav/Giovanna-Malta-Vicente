@@ -17,10 +17,11 @@ Minha meta é clara: evoluir diariamente, errar rápido para aprender mais rápi
 
 <div align="center">
 
-| Categoria | Tecnologias |
+| Categoria | Tecnologias / Habilidades |
 | :--- | :--- |
-| **Linguagens** | `HTML`, `Java` |
+| **Linguagens & Web** | `HTML5`, `CSS3`, `JavaScript`, `Java` |
 | **Banco de Dados** | `MySQL` |
+| **Produtividade** | `Pacote Office` (Word, Excel, PowerPoint) |
 | **Controle de Versão** | `Git`, `GitHub` |
 | **Áreas de Interesse** | Desenvolvimento Web, Banco de Dados, Backend |
 
